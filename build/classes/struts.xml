@@ -10,4 +10,5 @@
 			<result>/WEB-INF/pages/landingpage/index.jsp</result>
 		</action>
 	</package>
+	<include file="com/freelance/maslahat/struts/admin.xml" />
 </struts>   
