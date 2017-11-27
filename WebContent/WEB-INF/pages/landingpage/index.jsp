@@ -106,7 +106,7 @@
   <div id="rev_slider_24_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="website-intro" data-source="gallery" >
     <div id="rev_slider_24_1" class="rev_slider fullscreenbanner tiny_bullet_slider" data-version="5.4.1">
       <ul>
-        <li data-index="rs-67" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="../../assets/images/woman2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent"> <img src="images/hero1.jpg"  alt="Image"  data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="150" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
+        <li data-index="rs-67" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="../../assets/images/woman2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-slicey_shadow="0px 0px 0px 0px transparent"> <img src="${pageContext.request.contextPath}/media/images/hero1.jpg"  alt="Image"  data-bgposition="center center" data-kenburns="on" data-duration="5000" data-ease="Power2.easeInOut" data-scalestart="100" data-scaleend="150" data-rotatestart="0" data-rotateend="0" data-blurstart="20" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
           <div class="tp-caption tp-shape tp-shapewrapper tp-slicey  tp-resizeme" 
 			id="slide-67-layer-9" 
 			data-x="['center','center','center','center']" data-hoffset="['-112','-43','-81','44']" 
@@ -1111,7 +1111,7 @@
         <h6>Infinite Scroll</h6>
         <h2>Beautiful & Usefull Solutitons</h2>
         <p>Weeks after police busted an attempted Tai Chi versus MMA mass brawl.</p>
-        <a href="videos/video.mp4" class="watch-btn fancybox" data-type="iframe" >WATCH TRAILER</a> </div>
+        <a href="${pageContext.request.contextPath}/media/videos/video.mp4" class="watch-btn fancybox" data-type="iframe" >WATCH TRAILER</a> </div>
       <!-- end col-6 -->
       <div class="col-md-6 col-md-offset-2">
         <div class="video"><img src="${pageContext.request.contextPath}/media/images/video-image.jpg" alt="Image"> <a href="videos/video.mp4" class="play-btn fancybox" data-type="iframe" ><i class="fa fa-play" aria-hidden="true"></i></a> </div>
@@ -1232,7 +1232,7 @@
 <!-- end featured-solutions -->
 <section class="quote transition">
  <div class="video-bg">
- 	<video src="videos/video.mp4" muted loop autoplay></video>
+ 	<video src="${pageContext.request.contextPath}/media/videos/video.mp4" muted loop autoplay></video>
  </div>
  <!-- end video-bg -->
   <div class="container">
@@ -1311,7 +1311,7 @@
         <a href="#">LEARN MORE</a> </div>
 			<!-- end col-4 -->
 			<div class="col-md-6 col-md-offset-2">
-				<div class="our-progress"> <img src="images/project6.jpg" alt="Image" class="image">
+				<div class="our-progress"> <img src="${pageContext.request.contextPath}/media/images/project6.jpg" alt="Image" class="image">
           <div class="progress-infos"><small>2015 Team Work</small> <small class="pull-right">75%</small> </div>
           <!-- end progress-infos -->
           <div class="progress">
@@ -1351,7 +1351,7 @@
       <div class="col-xs-12">
        <div class="owl-slider">
        <div><div class="testimonial-box">
-          <figure class="head"> <img src="images/headshot1.jpg" alt="Image"> </figure>
+          <figure class="head"> <img src="${pageContext.request.contextPath}/media/images/headshot1.jpg" alt="Image"> </figure>
           <h5>Velcom Communication</h5>
           <small>Jessica Carter (Company CEO)</small> <span class="rates"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </span>
           <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est.</p>
@@ -1359,7 +1359,7 @@
         <!-- end testimonial-box --> </div>
         <!-- end div -->
        <div><div class="testimonial-box">
-          <figure class="head"> <img src="images/headshot2.jpg" alt="Image"> </figure>
+          <figure class="head"> <img src="${pageContext.request.contextPath}/media/images/headshot2.jpg" alt="Image"> </figure>
           <h5>KyevStar Mobile</h5>
           <small>Maria Slovenia (Marketting Manager)</small> <span class="rates"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </span>
           <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est.</p>
@@ -1367,7 +1367,7 @@
         <!-- end testimonial-box --> </div>
         <!-- end div -->
         <div><div class="testimonial-box">
-          <figure class="head"> <img src="images/headshot3.jpg" alt="Image"> </figure>
+          <figure class="head"> <img src="${pageContext.request.contextPath}/media/images/headshot3.jpg" alt="Image"> </figure>
           <h5>Zegna Clothes</h5>
           <small>Nathalia McPorter (Business Developer)</small> <span class="rates"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> </span>
           <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia non qui dolorem ipsum quia dolor sit amet, consectetur, adipis civelit sed quia numquam eius modi. Neque porro quisquam est.</p>
@@ -1385,7 +1385,7 @@
 </section>
 <!-- end testimonials -->
 <section class="left-side-content transition">
- <div class="side-image"> <img src="images/side-image1.jpg" alt="Image" class="bg-image"> 
+ <div class="side-image"> <img src="${pageContext.request.contextPath}/media/images/side-image1.jpg" alt="Image" class="bg-image"> 
    </div>
     <!-- end side-image -->
   <div class="container">
@@ -1397,7 +1397,7 @@
         <a href="#">LEARN MORE</a> </div>
       <!-- end col-6 -->
       <div class="col-md-6 col-md-offset-2">
-        <div class="content-image"><img src="images/side-image1.jpg" alt="Image"> </div>
+        <div class="content-image"><img src="${pageContext.request.contextPath}/media/images/side-image1.jpg" alt="Image"> </div>
         <!-- end content-image --> 
       </div>
       <!-- end col-6 --> 
@@ -1408,13 +1408,13 @@
 </section>
 <!-- end left-side-content -->
 <section class="right-side-content transition">
- <div class="side-image"> <img src="images/side-image2.jpg" alt="Image" class="bg-image"> 
+ <div class="side-image"> <img src="${pageContext.request.contextPath}/media/images/side-image2.jpg" alt="Image" class="bg-image"> 
    </div>
     <!-- end side-image -->
   <div class="container">
     <div class="row">
      <div class="col-md-6">
-        <div class="content-image"><img src="images/side-image2.jpg" alt="Image"> </div>
+        <div class="content-image"><img src="${pageContext.request.contextPath}/media/images/side-image2.jpg" alt="Image"> </div>
         <!-- end content-image --> 
       </div>
       <!-- end col-6 --> 
@@ -1431,7 +1431,7 @@
 </section>
 <!-- end right-side-content -->
 <section class="left-side-content transition">
- <div class="side-image"> <img src="images/side-image3.jpg" alt="Image" class="bg-image"> 
+ <div class="side-image"> <img src="${pageContext.request.contextPath}/media/images/side-image3.jpg" alt="Image" class="bg-image"> 
    </div>
     <!-- end side-image -->
   <div class="container">
@@ -1443,7 +1443,7 @@
         <a href="#">LEARN MORE</a> </div>
       <!-- end col-6 -->
       <div class="col-md-6 col-md-offset-2">
-        <div class="content-image"><img src="images/side-image3.jpg" alt="Image"> </div>
+        <div class="content-image"><img src="${pageContext.request.contextPath}/media/images/side-image3.jpg" alt="Image"> </div>
         <!-- end content-image --> 
       </div>
       <!-- end col-6 --> 
@@ -1503,7 +1503,7 @@
       <!-- end col-12 -->
       <div class="col-md-6 col-sm-12 col-xs-12">
         <div class="news-box-image">
-          <figure><img src="images/news-image1.jpg" alt="Image"> <!-- end div --> 
+          <figure><img src="${pageContext.request.contextPath}/media/images/news-image1.jpg" alt="Image"> <!-- end div --> 
             <small>ACCOUNTING</small> <i class="fa fa-star" aria-hidden="true"></i>
             <figcaption> <span>21 April 2017</span>
               <h4>Dolor sit amet, consectetur adipis</h4>
@@ -1541,7 +1541,7 @@
 <section class="support-bar transition">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12"> <a href="#">GET IN TOUCH</a> <img src="images/icon-support.png" alt="Image">
+      <div class="col-xs-12"> <a href="#">GET IN TOUCH</a> <img src="${pageContext.request.contextPath}/media/images/icon-support.png" alt="Image">
         <h4>Have any Question?</h4>
         <h6>We're here to help. Send us an email or call us at +38 075 92 47</h6>
       </div>
@@ -1599,7 +1599,7 @@
       <!-- end col-4 -->
       <div class="col-md-4 col-sm-12 col-xs-12">
         <h4 class="footer-title">PROMO VIDEO</h4>
-        <div class="video"><img src="images/video-image.jpg" alt="Image"> <a href="videos/video.mp4" class="play-btn fancybox" data-type="iframe" ><i class="fa fa-play" aria-hidden="true"></i></a> </div>
+        <div class="video"><img src="${pageContext.request.contextPath}/media/images/video-image.jpg" alt="Image"> <a href="videos/video.mp4" class="play-btn fancybox" data-type="iframe" ><i class="fa fa-play" aria-hidden="true"></i></a> </div>
         <!-- end video --> </div>
       <!-- end col-4 -->
       <div class="col-md-4">
