@@ -9,7 +9,6 @@
 <meta name="description" content="Maslahat | Pinjaman Syariah">
 <meta name="keywords" content="business, corporate, page, html, template, carousel, parallax, agency, html5">
 
-
 <!-- FAVICON FILES -->
 <link href="${pageContext.request.contextPath}/media/ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
 <link href="${pageContext.request.contextPath}/media/ico/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon" sizes="114x114">
