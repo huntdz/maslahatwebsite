@@ -68,7 +68,7 @@
           <li><a href="contact.html">KONTAK KAMI</a></li>
         </ul>
         <!-- end navbar-nav --> 
-        <a href="#" class="quote-btn">LOGIN</a>
+        <a href="<s:url namespace='/' action='maslahatloginsecure'/>" class="quote-btn">LOGIN</a>
         <a href="#" class="quote-btn">DAFTAR</a>
         
       </div>

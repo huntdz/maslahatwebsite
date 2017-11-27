@@ -2,8 +2,8 @@
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
     
-<html class="html" lang="en-US">
-<head>
+<!DOCTYPE html>
+<html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Insert title here</title>
