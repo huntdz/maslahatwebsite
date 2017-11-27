@@ -2,6 +2,7 @@
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
     
+<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +20,7 @@
 <!-- CSS FILES -->
 <link href="${pageContext.request.contextPath}/media/revolution/css/settings.css" rel="stylesheet">
 <link href="${pageContext.request.contextPath}/media/css/flaticon.css" rel="stylesheet">
-<link href="${pageContext.request.contextPath}/media/css/font-awesome.min.css" rel="stylesheet">
+<link href="${pageContext.request.contextPath}/media/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 <link href="${pageContext.request.contextPath}/media/css/jquery.fancybox.css" rel="stylesheet">
 <link href="${pageContext.request.contextPath}/media/css/odometer.min.css" rel="stylesheet">
 <link href="${pageContext.request.contextPath}/media/css/owl.carousel.min.css" rel="stylesheet">
