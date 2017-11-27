@@ -2,6 +2,7 @@
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
 
+
 <html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
