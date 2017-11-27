@@ -11,6 +11,7 @@
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/media/font-awesome/css/font-awesome.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/media/css/animate.css">
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/media/css/style.css">
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/media/css/style2.css">
 </head>
 <body class="gray-bg">
   <div class="middle-box text-center loginscreen animated fadeInDown">
