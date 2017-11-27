@@ -2,12 +2,11 @@
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
     
-<html class="html" lang="en-US"><head>
+<html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Financer | Business Consultations Template</title>
-<meta name="description" content="Financer | Business Consultations Template">
+<title>Maslahat | Selamat Datang</title>
+<meta name="description" content="Maslahat | Pinjaman Syariah">
 <meta name="keywords" content="business, corporate, page, html, template, carousel, parallax, agency, html5">
 
 
@@ -29,12 +28,7 @@
 <link href="${pageContext.request.contextPath}/media/css/base.css" rel="stylesheet">
 <link href="${pageContext.request.contextPath}/media/css/style.css" rel="stylesheet">
 
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 </head>
 <body>
 <div class="preloader"> <svg class="spinner" id="pageloader_anime" width="32px" height="32px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
@@ -44,12 +38,7 @@
 <div class="search-box transition">
    <div class="table">
    <div class="table-cell">
-    <div class="container">
-    	<form>
-    		<input type="text" placeholder="Type here to make a search" autofocus>
-    		<button type="submit">SEARCH</button>
-    	</form>
-    	</div>
+    
     	<!-- end container -->
     	</div>
     	<!-- end table-cell -->
@@ -74,29 +63,14 @@
             <!-- end top-menu --> 
         <ul class="nav navbar-nav">
           <li><a href="index.html">HOME</a></li>
-          <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle">PAGES</a>
-            <ul class="dropdown-menu">
-              <li><a href="about-us.html">About Us</a></li>
-              <li><a href="solutions.html">Solutions</a></li>
-              <li><a href="partners.html">Partners</a></li>
-              <li><a href="gallery.html">Gallery</a></li>
-              <li><a href="pricing.html">Pricing</a></li>
-              <li><a href="faq.html">FAQ</a></li>
-              <li><a href="elements.html">Elements</a></li>
-              <li><a href="404.html">404 Page</a></li>
-            </ul>
-          </li>
-          <li><a href="projects.html">PROJECTS</a></li>
-          <li><a href="services.html">SERVICES</a></li>
-          <li><a href="news.html">NEWS</a></li>
-          <li><a href="contact.html">CONTACT</a></li>
+          <li><a href="services.html">PEMBIAYAAN</a></li>
+          <li><a href="news.html">CARA KERJA</a></li>
+          <li><a href="contact.html">KONTAK KAMI</a></li>
         </ul>
         <!-- end navbar-nav --> 
-        <a href="#" class="quote-btn">GET QUOTE</a>
-        <span class="phone"><i class="fa fa-phone" aria-hidden="true"></i> +38 075 92 47</span> 
-        <!-- end phone --> 
-        <div class="search"><i class="fa fa-search" aria-hidden="true"></i></div>
-        <!-- end search -->
+        <a href="#" class="quote-btn">LOGIN</a>
+        <a href="#" class="quote-btn">DAFTAR</a>
+        
       </div>
       <!-- end navbar-collapse --> 
     </div>
