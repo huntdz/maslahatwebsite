@@ -21,8 +21,6 @@ public class MenuModel {
 	private String download;
 	private String upload;
 	
-	//enhancement (untuk link slider)
-	private String url;
 	
 	public String getDownload() {
 		return download;
@@ -263,13 +261,4 @@ public class MenuModel {
 	public void setIdMenu(String idMenu) {
 		this.idMenu = idMenu;
 	}
-
-	public String getUrl() {
-		return url;
-	}
-
-	public void setUrl(String url) {
-		this.url = url;
-	}
-
 }

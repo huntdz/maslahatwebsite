@@ -1,7 +1,10 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
-
+<%
+	String roleId = (String) session.getAttribute("id_role");
+	String roleName = (String) session.getAttribute("user");
+%>
 
 <html lang="en"><head>
 <meta charset="utf-8">
@@ -68,7 +71,9 @@
           <li><a href="contact.html">KONTAK KAMI</a></li>
         </ul>
         <!-- end navbar-nav --> 
-        <a href="#" class="quote-btn">LOGIN</a>
+        <%if(roleId == null || roleId.equals("") || roleId.equals("2")){%>
+			<a href='<s:url namespace="/" action="login"/>' class="quote-btn">LOGIN</a>
+		<%}%>
         <a href="#" class="quote-btn">DAFTAR</a>
         
       </div>

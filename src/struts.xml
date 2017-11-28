@@ -11,4 +11,5 @@
 		</action>
 	</package>
 	<include file="com/freelance/maslahat/struts/admin.xml" />
+	<include file="com/freelance/maslahat/struts/login.xml" />
 </struts>   
