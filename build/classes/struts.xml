@@ -11,5 +11,8 @@
 		</action>
 	</package>
 	<include file="com/freelance/maslahat/struts/admin.xml" />
+<<<<<<< HEAD
 	<include file="com/freelance/maslahat/struts/login.xml" />
+=======
+>>>>>>> refs/remotes/kingonex/kingonex
 </struts>   
