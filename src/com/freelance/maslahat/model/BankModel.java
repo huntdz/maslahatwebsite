@@ -7,7 +7,7 @@ public class BankModel {
 	private String dateUpdated;
 	
 	public BankModel(){
-		
+		  
 	}
 
 	public String getIdBank() {
