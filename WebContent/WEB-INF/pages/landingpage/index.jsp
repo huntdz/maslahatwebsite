@@ -74,7 +74,11 @@
         <%if(roleId == null || roleId.equals("") || roleId.equals("2")){%>
 			<a href='<s:url namespace="/" action="login"/>' class="quote-btn">LOGIN</a>
 		<%}%>
+<<<<<<< HEAD
 <a href="#" class="quote-btn">DAFTARS</a>
+=======
+        <a href="#" class="quote-btn">DAFTAR</a>
+>>>>>>> refs/heads/borisbranch
         
       </div>
       <!-- end navbar-collapse --> 
