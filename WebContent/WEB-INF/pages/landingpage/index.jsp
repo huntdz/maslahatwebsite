@@ -1,8 +1,8 @@
 <%@ taglib prefix="s" uri="/struts-tags"%>
 <%@ taglib uri="http://displaytag.sf.net" prefix="display" %>
 <%@page import="com.opensymphony.xwork2.ActionContext"%>
- 
-<!DOCTYPE html> 
+
+
 <html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -68,7 +68,7 @@
           <li><a href="contact.html">KONTAK KAMI</a></li>
         </ul>
         <!-- end navbar-nav --> 
-        <a href="<s:url namespace='/' action='maslahatloginsecure'/>" class="quote-btn">LOGIN</a>
+        <a href="#" class="quote-btn">LOGIN</a>
         <a href="#" class="quote-btn">DAFTAR</a>
         
       </div>
