@@ -15,7 +15,7 @@
 <body class="gray-bg">
   <div class="middle-box text-center loginscreen animated fadeInDown">
         <div>
-            <h3>Welcome to Mashlahat login screen </h3>
+            <h3>Welcome to Mashlahat login screen</h3>
             <p>Perfectly designed and precisely prepared admin theme with over 50 pages with extra new web app views.
                 <!--Continually expanded and constantly improved Inspinia Admin Them (IN+)-->
             </p>  
