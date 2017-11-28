@@ -6,7 +6,7 @@
 <struts>
 	<constant name="struts.devMode" value="false" />
 	<package name="default" namespace="/" extends="struts-default">
-		<action name="landing-page">
+		<action name="landing-page" class="com.freelance.maslahat.action.LandingPageAction" method="landingPage">
 			<result>/WEB-INF/pages/landingpage/index.jsp</result>
 		</action>
 	</package>
