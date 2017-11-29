@@ -9,7 +9,7 @@
 			<result>/WEB-INF/pages/admin/dashboard/login.jsp</result>
 		</action>
 		<action name="loginAction" class="com.freelance.maslahat.action.LoginAction">
-			<result name="success">/WEB-INF/pages/landingpage/index.jsp</result>
+			<result name="success">/WEB-INF/pages/admin/dashboard/dashboard.jsp</result>
 		</action>
 	</package>
 	
