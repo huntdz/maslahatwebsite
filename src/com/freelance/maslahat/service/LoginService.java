@@ -39,25 +39,5 @@ public class LoginService extends DBService implements IQueryLogin{
 		
 		return model;
 	}
-
-	/*public String getUserLevel(String idRole){
-		String result = "0";
-		openConnection();
-		try {
-			ps = connection.prepareStatement(QUERY_GET_USER_LEVEL);
-			ps.setInt(1, Integer.parseInt(idRole));
-			
-			rs = ps.executeQuery();
-			
-			while (rs.next()) {
-				result = String.valueOf(rs.getInt(1));
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-		}finally {
-			closeConnetion();
-		}
-		return result;
-	}*/
 	
 }

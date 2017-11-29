@@ -5,7 +5,7 @@
 <struts>
 	
 	<package name="Dashboard" namespace="/" extends="default">	
-		<action name="landing-page" class="com.maslahat.action.LandingPageAction" method="landingPage">
+		<action name="landing-page" class="com.freelance.maslahat.action.LandingPageAction" method="landingPage">
 			<result>/WEB-INF/pages/dashboard/dashboard.jsp</result>
 		</action>
 	</package>
